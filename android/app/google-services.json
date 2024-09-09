@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335983895135",
+    "project_id": "news-dekho-4ab51",
+    "storage_bucket": "news-dekho-4ab51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335983895135:android:36b9716dafd5755f5eb1ea",
+        "android_client_info": {
+          "package_name": "com.example.demoflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZRCkNPqysXkG56-IqWrHOdycaeU9ohk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
